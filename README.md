@@ -8,6 +8,7 @@ Analysis of micropolitical climates on UC campuses by using discussions on Reddi
   <img src="pics/UC.png" height="150">
 </div>
 
+### Early Visualizations
 <div align="center">
   <img src="pics/uc_upvote_ratio.png" height="300">
   <img src="pics/allUCwordcloud.png" height="300">

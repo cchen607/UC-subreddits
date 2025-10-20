@@ -162,4 +162,5 @@ campus below, we can split the 9 UC campuses into 3 different groups,
 high, middle, and low ranking.
 
 <img src="images/uc_rankings.png" data-fig-align="center" height="400"
-alt="UC rankings" />
+alt="UC rankings" /> We can see how sentiment over different topics
+varies among college ranks.
